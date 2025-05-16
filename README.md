@@ -26,7 +26,7 @@ The primary goal of **YoungDeveloperHub** is to **empower students worldwide** b
 ## 🛠️ Technology Stack
 
 - **Frontend**:  
-  - HTML, CSS, JavaScript 💻
+  - HTML, CSS, JavaScript 💻 + React
   
 - **Backend**:  
   - Node.js, Express.js ⚙️
@@ -36,7 +36,6 @@ The primary goal of **YoungDeveloperHub** is to **empower students worldwide** b
 
 - **Cloud Services**:  
   - Amazon Web Services (AWS) 🌐  
-  - Microsoft Azure 🌥️
 
 ## 🚀 Conclusion
 
